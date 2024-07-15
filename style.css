@@ -1,4 +1,7 @@
 /* Device */
+body{
+  background-color: #6ba7c3;
+}
 .material-icons{
   margin-top: -5px;
 }
@@ -11,6 +14,11 @@
 }
 .text-zayy{
   margin-left: 33px;
+}
+.bg-img{
+  display: block;
+  position: absolute;
+  width: 300px;
 }
 
 /* Mobile */
