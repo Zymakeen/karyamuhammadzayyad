@@ -1,0 +1,38 @@
+/* Device */
+.material-icons{
+  margin-top: -5px;
+}
+.maken{
+  font-weight: 600 !important;
+}
+.logo-zay{
+  margin-left: 60px;
+}
+.text-zayy{
+  margin-left: 33px;
+}
+
+/* Mobile */
+@media screen and (max-width:600px) {
+  .card{
+    width: 300px;
+    height: 70px;
+  }
+  .card-content{
+    margin-top: 2px !important;
+  }
+  .material-icons{
+    font-size: 40px !important;
+  }
+  .material-icons{
+    margin-top: -5px;
+  }
+  .logo-zay{
+    margin-left: 15px;
+  }
+  .text-zayy{
+    margin-left: -8px;
+  }
+}
+
+
